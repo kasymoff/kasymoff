@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**kasymoff/kasymoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Ulukbek
+## I am from Kyrgyzstan
+## I am Web_developer
+## My stack:
+- HTML
+- CSS
+- JS
+- Currently learning ReactJS
+## I like football. I am a fan of the Arsenal
+## I like to produce music. Using Abletone
+## I like driving my Altezza
 
-Here are some ideas to get you started:
+### Would be glad to make new friends in devSociety
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ThankU
