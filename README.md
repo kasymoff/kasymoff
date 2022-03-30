@@ -13,10 +13,5 @@
 ### I like driving my Altezza
 
 ### Would be glad to make new friends in devSociety
-<div class="embed-responsive embed-responsive-16by9">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1OdRf6ifrL4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
 
 ## ThankU
