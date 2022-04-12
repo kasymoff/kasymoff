@@ -17,4 +17,4 @@
 ## ThankU
 
 #### Contacts:
-Telegram: @UlikKas
+Telegram: [@UlikKas](https://t.me/UlikKas)
